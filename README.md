@@ -1,14 +1,14 @@
 # Rahul-Mokhale
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Mokhale
 ======================================================================================================================================
-<h4>A Full-Stack developer | MERN Stack</h4>
+<h4>A Front-end developer | MERN Stack</h4>
 
 - 🔭 I’m currently working on a MERN Project
-- 🌱 I’m Interested to work on Web 3.0
-- 👯 I’m making the world better by PRs 
-- 💬 Ask me about Technology & Finance
-- 📫 How to reach me: dipayansarkar265482@gmail.com
-- ⚡ Fun fact: I'm currently studying B. Tech Computer Science
+- 🌱 I’m Interested to work on Web Devlopment
+- 👯 I’m making the world better
+- 💬 Ask me about Technology
+- 📫 How to reach me: rahulmokhale315@gmail.com
+- ⚡ I Complete My Graduation in Computer Science
 
 <a href="https://www.github.com/dipayansarkar47" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dipayansarkar47?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
