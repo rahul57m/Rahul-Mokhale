@@ -30,4 +30,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
             <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="tailwind" width="40" height="40"/> </a> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
               <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="tailwind" width="50" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-                <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="tailwind" width="50" height="40"/> </a> </p>
+              
