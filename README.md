@@ -11,9 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - ⚡ I Complete My Graduation in Computer Science
 
 <h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C_Logo.svg/800px-ISO_C_Logo.svg.png" alt="react" width="35" height="40"/> </a> 
-  </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="react" width="35" height="40"/> </a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer">
@@ -30,4 +28,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
             <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="tailwind" width="40" height="40"/> </a> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
               <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" alt="tailwind" width="50" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-              
+    
+<a href="https://www.github.com/dipayansarkar47" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/dipayansarkar47?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipayansarkar47&label=Profile%20views&color=0e75b6&style=flat" alt="dipayansarkar47" /> </p>
+
+<p align="left"> <a href="https://twitter.com/codewithbiki" target="blank"><img src="https://img.shields.io/twitter/follow/codewithbiki?logo=twitter&style=for-the-badge" alt="codewithbiki" /></a> </p>
+
